@@ -1,0 +1,4 @@
+repository "IA Torrestes i torretes mòbils@bsivan1110@cloud"
+  path "/"
+    br "/main"
+    co "/main"
